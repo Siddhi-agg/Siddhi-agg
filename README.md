@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Siddhi!
 
-[![Linkedin: Siddhi Agrawal](https://img.shields.io/badge/-Riya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhi-agrawal-8128a9235/)](https://www.linkedin.com/in/siddhi-agrawal-8128a9235/)
+[![Linkedin: Siddhi Agrawal](https://img.shields.io/badge/-Siddhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddhi-agrawal-8128a9235/)](https://www.linkedin.com/in/siddhi-agrawal-8128a9235/)
 ![GitHub followers](https://img.shields.io/github/followers/Siddhi-agg?label=Follow&style=social)
 
 
