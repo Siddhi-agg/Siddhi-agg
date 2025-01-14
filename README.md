@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🏆 I am currently exploring the **GoLang and Kubernetes**
+- 🏆 I am currently exploring **GoLang and Kubernetes**
 - 👯 I’m working on **Open Source Projects**
 - 🧑 I am proficient in **App development** & **Machine learning**
 - 📫 Reach out to me at my **<a href="mailto:siddhi3agrawal@gmail.com">Email</a>** 
